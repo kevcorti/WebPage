@@ -10,45 +10,46 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
 :root {
-  --bs-blue: #B1CDEA;
-  --bs-indigo: #A484EE;
-  --bs-purple: #B5A8CB;
-  --bs-pink: #F28CBA;
-  --bs-red: #EB8C96;
-  --bs-orange: #FDB48E;
-  --bs-yellow: #FFEB9D;
-  --bs-green: #87C69A;
-  --bs-teal: #89D5C3;
-  --bs-cyan: #9FD7E7;
+  --bs-blue: #D8E9F8;
+  --bs-indigo: #C2A3F5;
+  --bs-purple: #D1C5E6;
+  --bs-pink: #F6A4D3;
+  --bs-red: #F1A6AE;
+  --bs-orange: #FECFAB;
+  --bs-yellow: #FFF4C4;
+  --bs-green: #9EE1B3;
+  --bs-teal: #A2EEDC;
+  --bs-cyan: #B1F0F9;
   --bs-black: #000;
   --bs-white: #fff;
-  --bs-gray: #869197;
-  --bs-gray-dark: #474F56;
-  --bs-gray-100: #F8F9FA;
-  --bs-gray-200: #E9ECEF;
-  --bs-gray-300: #DEE2E6;
-  --bs-gray-400: #CED4DA;
-  --bs-gray-500: #ADB5BD;
-  --bs-gray-600: #6C757D;
-  --bs-gray-700: #495057;
-  --bs-gray-800: #343A40;
+  --bs-gray: #AAB1B9;
+  --bs-gray-dark: #6B7680;
+  --bs-gray-100: #FBFCFD;
+  --bs-gray-200: #E2EAF0;
+  --bs-gray-300: #D2DCE2;
+  --bs-gray-400: #C1CBD1;
+  --bs-gray-500: #B2BBC2;
+  --bs-gray-600: #7E8991;
+  --bs-gray-700: #59646D;
+  --bs-gray-800: #40484F;
   --bs-gray-900: #212529;
-  --bs-primary: #FFEB9D;
-  --bs-secondary: #869197;
-  --bs-success: #87C69A;
-  --bs-info: #9FD7E7;
-  --bs-warning: #FFEB9D;
-  --bs-danger: #EB8C96;
-  --bs-light: #F8F9FA;
+  --bs-primary: #FFF4C4;
+  --bs-secondary: #AAB1B9;
+  --bs-success: #9EE1B3;
+  --bs-info: #B1F0F9;
+  --bs-warning: #FFF4C4;
+  --bs-danger: #F1A6AE;
+  --bs-light: #FBFCFD;
   --bs-dark: #212529;
-  --bs-primary-rgb: 255, 235, 157;
-  --bs-secondary-rgb: 134, 145, 151;
-  --bs-success-rgb: 135, 198, 154;
-  --bs-info-rgb: 159, 215, 231;
-  --bs-warning-rgb: 255, 235, 157;
-  --bs-danger-rgb: 235, 140, 150;
-  --bs-light-rgb: 248, 249, 250;
+  --bs-primary-rgb: 255, 244, 196;
+  --bs-secondary-rgb: 170, 177, 185;
+  --bs-success-rgb: 158, 225, 179;
+  --bs-info-rgb: 177, 240, 249;
+  --bs-warning-rgb: 255, 244, 196;
+  --bs-danger-rgb: 241, 166, 174;
+  --bs-light-rgb: 251, 252, 253;
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
@@ -73,13 +74,11 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #FFEB9D;
+  --bs-link-color: #FFF4C4;
   --bs-link-hover-color: #CCA000;
-  --bs-code-color: #F28CBA;
+  --bs-code-color: #F6A4D3;
   --bs-highlight-bg: #FFF4CC;
 }
-
-
 
 
 *,
