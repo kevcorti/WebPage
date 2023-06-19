@@ -10,45 +10,44 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-
 :root {
-  --bs-blue: #0d6efd;
-  --bs-indigo: #6610f2;
-  --bs-purple: #6f42c1;
-  --bs-pink: #d63384;
-  --bs-red: #dc3545;
-  --bs-orange: #fd7e14;
-  --bs-yellow: #ffc800;
-  --bs-green: #198754;
-  --bs-teal: #20c997;
-  --bs-cyan: #0dcaf0;
+  --bs-blue: #B1CDEA;
+  --bs-indigo: #A484EE;
+  --bs-purple: #B5A8CB;
+  --bs-pink: #F28CBA;
+  --bs-red: #EB8C96;
+  --bs-orange: #FDB48E;
+  --bs-yellow: #FFEB9D;
+  --bs-green: #87C69A;
+  --bs-teal: #89D5C3;
+  --bs-cyan: #9FD7E7;
   --bs-black: #000;
   --bs-white: #fff;
-  --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
-  --bs-gray-100: #f8f9fa;
-  --bs-gray-200: #e9ecef;
-  --bs-gray-300: #dee2e6;
-  --bs-gray-400: #ced4da;
-  --bs-gray-500: #adb5bd;
-  --bs-gray-600: #6c757d;
+  --bs-gray: #869197;
+  --bs-gray-dark: #474F56;
+  --bs-gray-100: #F8F9FA;
+  --bs-gray-200: #E9ECEF;
+  --bs-gray-300: #DEE2E6;
+  --bs-gray-400: #CED4DA;
+  --bs-gray-500: #ADB5BD;
+  --bs-gray-600: #6C757D;
   --bs-gray-700: #495057;
-  --bs-gray-800: #343a40;
+  --bs-gray-800: #343A40;
   --bs-gray-900: #212529;
-  --bs-primary: #ffc800;
-  --bs-secondary: #6c757d;
-  --bs-success: #198754;
-  --bs-info: #0dcaf0;
-  --bs-warning: #ffc800;
-  --bs-danger: #dc3545;
-  --bs-light: #f8f9fa;
+  --bs-primary: #FFEB9D;
+  --bs-secondary: #869197;
+  --bs-success: #87C69A;
+  --bs-info: #9FD7E7;
+  --bs-warning: #FFEB9D;
+  --bs-danger: #EB8C96;
+  --bs-light: #F8F9FA;
   --bs-dark: #212529;
-  --bs-primary-rgb: 255, 200, 0;
-  --bs-secondary-rgb: 108, 117, 125;
-  --bs-success-rgb: 25, 135, 84;
-  --bs-info-rgb: 13, 202, 240;
-  --bs-warning-rgb: 255, 200, 0;
-  --bs-danger-rgb: 220, 53, 69;
+  --bs-primary-rgb: 255, 235, 157;
+  --bs-secondary-rgb: 134, 145, 151;
+  --bs-success-rgb: 135, 198, 154;
+  --bs-info-rgb: 159, 215, 231;
+  --bs-warning-rgb: 255, 235, 157;
+  --bs-danger-rgb: 235, 140, 150;
   --bs-light-rgb: 248, 249, 250;
   --bs-dark-rgb: 33, 37, 41;
   --bs-white-rgb: 255, 255, 255;
@@ -66,7 +65,7 @@
   --bs-body-bg: #fff;
   --bs-border-width: 1px;
   --bs-border-style: solid;
-  --bs-border-color: #dee2e6;
+  --bs-border-color: #DEE2E6;
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
   --bs-border-radius: 0.375rem;
   --bs-border-radius-sm: 0.25rem;
@@ -74,11 +73,13 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #ffc800;
-  --bs-link-hover-color: #cca000;
-  --bs-code-color: #d63384;
-  --bs-highlight-bg: #fff4cc;
+  --bs-link-color: #FFEB9D;
+  --bs-link-hover-color: #CCA000;
+  --bs-code-color: #F28CBA;
+  --bs-highlight-bg: #FFF4CC;
 }
+
+
 
 
 *,
